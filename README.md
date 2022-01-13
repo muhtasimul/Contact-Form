@@ -1,5 +1,13 @@
 #Contact Form App
 
+<p>This app is a mock contact form I made for practice. It is created using React JS, React Bootstrap, and Node JS </p>
+<p>
+
+<p>Please Note that once you fill up the form you will not receive an actual email instead you re-directed to another another page where I have created a mock auto-reply page.</p>
+
+<h5>Please visit the link below to view the app</h5>
+<a>https://elastic-bhaskara-c2157d.netlify.app</a>
+
 <hr>
 <details>
 # Getting Started with Create React App
