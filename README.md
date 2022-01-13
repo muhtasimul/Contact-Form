@@ -6,7 +6,7 @@
 <p>Please Note that once you fill up the form you will not receive an actual email instead you re-directed to another another page where I have created a mock auto-reply page.</p>
 
 <h5>Please visit the link below to view the app</h5>
-<a>https://elastic-bhaskara-c2157d.netlify.app</a>
+https://elastic-bhaskara-c2157d.netlify.app
 
 <hr>
 <details>
