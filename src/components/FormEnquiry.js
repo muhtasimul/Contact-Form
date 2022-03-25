@@ -96,6 +96,7 @@ function FormEnquiry() {
                         <Form.Group as={Col} md="4"
                             controlId='subject'
                             className="m-3"
+                            
                         >
                             <Form.Label>Subject</Form.Label>
                             <Form.Control
@@ -104,7 +105,7 @@ function FormEnquiry() {
                                 placeholder='E.g. Internet not working'
                                 onChange={(e)=>setSubject(e.target.value)}
                                 value={subject}
-                            />
+                            /> 
                             <Form.Control.Feedback type="invalid">
                                 Required
                             </Form.Control.Feedback>
